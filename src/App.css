@@ -12,6 +12,21 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+#maincom{
+  text-transform: capitalize;
+  color: #61dafb;
+}
+#hed{
+  color: blue;
+  text-transform: capitalize;
+}
+.fot{
+  color: rgb(255, 125, 125) !important;
+  text-transform: capitalize;
+}
+.end{
+  float: right;
+}
 
 .App-header {
   background-color: #282c34;
@@ -35,4 +50,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.link{
+  /* text-decoration: none; */
 }

@@ -1,0 +1,38 @@
+.fot{
+    padding: 10px;
+    font-weight: bold;
+    color: blueviolet !important;
+}
+.footer{
+    /* background-color: blue; */
+    padding: 20px;
+    /* color: aliceblue; */
+}
+.App{
+    /* background-color: red; */
+    padding: 0px 20px;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+.header{
+    background-color: aqua;
+
+    padding: 20px;
+}
+.link{
+    color: rgb(255, 255, 255) !important;
+    text-decoration: none;
+}
+
+#collasible-nav-dropdown{
+    color: rgb(255, 255, 255) !important;
+}
+#link{
+    text-decoration: none;
+}
+
+Link{
+    text-decoration: none;
+}
